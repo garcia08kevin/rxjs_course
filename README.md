@@ -1,4 +1,8 @@
-# Proyecto inicial - Curso de RXJS
+# Curso de RXJS
+
+Curso de rxjs impartido por el profesor Fernando Herrera `https://www.udemy.com/course/rxjs-de-cero-hasta-los-detalles/`.
+
+# Iniciar proyecto
 
 * Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
 
